@@ -1,3 +1,19 @@
+# 1.0.0 (2026-06-30)
+
+
+### Bug Fixes
+
+* examples now use root module with source = ../../ ([db301bb](https://github.com/karan-cd/terraform-hcloud-ip/commit/db301bb18eb4cb5e7256512495177cc839533aaf))
+* remove unused variables from examples ([bbc9698](https://github.com/karan-cd/terraform-hcloud-ip/commit/bbc9698826bb26e31c9f354524d45af7e0c3610d))
+
+
+### Features
+
+* add pre-commit, semantic-release, and improve examples ([b7b578e](https://github.com/karan-cd/terraform-hcloud-ip/commit/b7b578e3442e503631c9ac903795bba127772558))
+* added the workflow yml ([14786a9](https://github.com/karan-cd/terraform-hcloud-ip/commit/14786a91deb5f09ec6d0523e0be6d66d93a885fc))
+* improve IP module maturity ([8d23941](https://github.com/karan-cd/terraform-hcloud-ip/commit/8d23941deed9eefc5df59402b4c32852699c3b57))
+* initial terraform-hcloud-ip module with primary-ip, floating-ip, rdns submodules ([15d9ffe](https://github.com/karan-cd/terraform-hcloud-ip/commit/15d9ffef60374a846233600384116db4af1f7cc7))
+
 # [0.3.0](https://github.com/terraform-hc-modules/terraform-hcloud-ip/compare/v0.2.1...v0.3.0) (2026-04-20)
 
 
